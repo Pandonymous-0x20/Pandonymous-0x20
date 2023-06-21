@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=neon&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=holi&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=rose_pine&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=codeSTACKr&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=chartreuse-dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=aura&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=panda&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandonymous-0x20&theme=aura_dark&show_icons=true)
